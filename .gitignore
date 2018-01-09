@@ -1,0 +1,5 @@
+.settings/
+.idea/
+.git/
+.DS_Store
+lectures/lec20/node_modules/
